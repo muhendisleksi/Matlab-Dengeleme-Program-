@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>NoktaKonumlari</name>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>115. Nokta Konumu</name>
+         <Camera>
+            <longitude>39.7335449109953</longitude>
+            <latitude>40.9422273470097</latitude>
+            <altitude>500</altitude>
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+         </Camera>
+         <Point>
+            <coordinates>39.7304994200665,40.9415243826421,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>50. Nokta Konumu</name>
+         <Camera>
+            <longitude>39.7335449109953</longitude>
+            <latitude>40.9422273470097</latitude>
+            <altitude>500</altitude>
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+         </Camera>
+         <Point>
+            <coordinates>39.7335449109953,40.9422273470097,0</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>

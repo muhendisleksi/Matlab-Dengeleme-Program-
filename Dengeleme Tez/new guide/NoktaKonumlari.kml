@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>NoktaKonumlari</name>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>101. Nokta Konumu</name>
+         <Camera>
+            <longitude>30.1801890545573</longitude>
+            <latitude>0.0745503845997277</latitude>
+            <altitude>500</altitude>
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+         </Camera>
+         <Point>
+            <coordinates>30.1549310178411,0.115872626543882,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>102. Nokta Konumu</name>
+         <Camera>
+            <longitude>30.1801890545573</longitude>
+            <latitude>0.0745503845997277</latitude>
+            <altitude>500</altitude>
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+         </Camera>
+         <Point>
+            <coordinates>30.2253391085373,0.109482400384361,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>103. Nokta Konumu</name>
+         <Camera>
+            <longitude>30.1801890545573</longitude>
+            <latitude>0.0745503845997277</latitude>
+            <altitude>500</altitude>
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+         </Camera>
+         <Point>
+            <coordinates>30.2188345530652,0.0472999405537617,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>104. Nokta Konumu</name>
+         <Camera>
+            <longitude>30.1801890545573</longitude>
+            <latitude>0.0745503845997277</latitude>
+            <altitude>500</altitude>
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+         </Camera>
+         <Point>
+            <coordinates>30.1505269492627,0.0583103088419119,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>23. Nokta Konumu</name>
+         <Camera>
+            <longitude>30.1801890545573</longitude>
+            <latitude>0.0745503845997277</latitude>
+            <altitude>500</altitude>
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+            <altitudeMode>relativeToGround</altitudeMode>
+         </Camera>
+         <Point>
+            <coordinates>30.1801890545573,0.0745503845997277,0</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
